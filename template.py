@@ -1,3 +1,7 @@
+"""
+This .py file is to create the file structure for a research paper navigator project.
+"""
+
 import os
 from pathlib import Path
 import logging
